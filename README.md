@@ -4,6 +4,12 @@
 Deployed Application: https://glacial-plateau-74113.herokuapp.com/  
 GitHub Repository: https://github.com/coderbennett/bookend
 
+## Usage Instructions
+- Visit deployed application: https://glacial-plateau-74113.herokuapp.com/  
+- Click Signup to create an account
+- Explore public book clubs from the homepage, view books, read user reviews, leave your own reviews or comment on others, save books of interest
+- Navigate to your dashboard to view your reviews, saved books, or create your own book club to invite your friends
+
 ## Table of Contents
 
 - [Description](#description)
